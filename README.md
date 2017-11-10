@@ -1,25 +1,5 @@
-# README
+# Rails Walkthrough
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Ruby on Rails tutorial has been a great way to learn the ins and outs of the framework.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails-docs-walkthrough
+All instructions are found [here](http://guides.rubyonrails.org/getting_started.html).
